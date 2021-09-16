@@ -1,6 +1,6 @@
 # Modeling-Population-Dynamics
 
-Анализа и моделирање на три студии на случај во Python:
-- ширење на SARS-CoV-2 во Народна Република Кина,
-- конкуренција помеѓу колонии на два вида Paramecium,
-- предаторство помеѓу видови на рис и зајак во Канада.
+Analysis and modeling of three study cases in Python:
+- spread of SARS-CoV-2 in People's Republic of China;
+- competition between colonies of two species of _Paramecium_;
+- predation between snowshoe hare and canadian lynx in Canada.
